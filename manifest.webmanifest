@@ -1,7 +1,0 @@
-{
-  "name":"Histamina — wyszukiwarka produktów",
-  "short_name":"Histamina",
-  "description":"Polska wyszukiwarka produktów na podstawie bazy SIGHI 2024.",
-  "lang":"pl","start_url":"./index.html","scope":"./","display":"standalone","orientation":"portrait","background_color":"#032e2b","theme_color":"#176b5d","prefer_related_applications":false,
-  "icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
-}
